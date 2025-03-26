@@ -19,4 +19,7 @@ print("Resultado de la suma: ", suma)
 
 # print("Suma: ", suma)
 # print("Multiplicacion: ", multiplicacion)
+nombre = daniel
+
+edad = 20
 
